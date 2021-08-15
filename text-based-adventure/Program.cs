@@ -38,6 +38,12 @@ namespace text_based_adventure
             menu();
             //Console.WriteLine("insert welcome ascii here");
 
+
+
+            /*
+             ADDITIONAL LINKS 
+             */
+
             //Follow these links for the main menu
             //https://www.youtube.com/watch?v=qAWhGEPMlS8
             //https://www.youtube.com/watch?v=A3UqpcQu4E0
